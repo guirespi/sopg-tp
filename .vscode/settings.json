@@ -1,0 +1,14 @@
+{
+    "clang-format.executable": "/usr/bin/clang-format-16",
+    "clang-format.language.c.enable": true,
+    "clang-format.assumeFilename": ".clang-format", // file at the root folder
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "files.associations": {
+        "gpio.h": "c",
+        "hal.h": "c",
+        "stdbool.h": "c"
+    },
+}
