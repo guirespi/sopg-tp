@@ -7,8 +7,9 @@
         "source.fixAll": "explicit"
     },
     "files.associations": {
-        "gpio.h": "c",
-        "hal.h": "c",
-        "stdbool.h": "c"
+        "main.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "file.h": "c"
     },
 }
